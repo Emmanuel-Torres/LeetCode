@@ -49,7 +49,6 @@ public class P3_Implementation
 
     private void AddSymbol(char symbol)
     {
-        Console.WriteLine("Adding: '" + symbol + "'");
         _history = _history + symbol;
     }
 }
