@@ -1,6 +1,6 @@
 using Problems.P4;
 
-namespace Problems.Tests;
+namespace Problems.Tests.P4;
 
 public class P4_Tests
 {
